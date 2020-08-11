@@ -1,0 +1,13 @@
+D:\academics\P projects\programming\C#\metroUI\metroUI\bin\Debug\metroUI.exe.config
+D:\academics\P projects\programming\C#\metroUI\metroUI\bin\Debug\metroUI.exe
+D:\academics\P projects\programming\C#\metroUI\metroUI\bin\Debug\metroUI.pdb
+D:\academics\P projects\programming\C#\metroUI\metroUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.Form1.resources
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.Properties.Resources.resources
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.csproj.GenerateResource.Cache
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.exe
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.pdb
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.csprojResolveAssemblyReference.cache
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.Form2.resources
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.UserControl1.resources
+D:\academics\P projects\programming\C#\metroUI\metroUI\obj\Debug\metroUI.Form3.resources
